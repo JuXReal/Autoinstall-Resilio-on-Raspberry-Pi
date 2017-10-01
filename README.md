@@ -5,8 +5,9 @@ You dont have to search for a installer... is easy :-)
 Just follow these steps
 
 #1.Create a folder
-sudo mkdir -p /opt/resilio/bin
 
+sudo mkdir    /opt/resilio/
+sudo mkdir -p /opt/resilio/bin
 sudo mkdir /opt/resilio/app_files
 
 #2.Change Directory
